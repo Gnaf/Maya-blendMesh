@@ -46,4 +46,8 @@ deformer -type bulgeMesh
 
 deformer -type sphereCollide
 
----------------------------------------------------
+----------------------------------------------------------
+
+description how to test and use deformer nodes follows ... 
+
+----------------------------------------------------------
