@@ -5,7 +5,7 @@ Maya blendMesh/ bulgeMesh/ sphereCollide plugin
 
 --------------------------------------------------
 
-In Maya pluginmanager Load compiled blendMesh.mll
+In Maya pluginmanager load compiled blendMesh.mll
 
 --------------------------------------------------
 
